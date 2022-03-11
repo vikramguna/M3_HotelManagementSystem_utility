@@ -10,3 +10,6 @@
 ![Food information](https://user-images.githubusercontent.com/53256465/157899170-15c282d6-0bd1-4fa8-a8e9-926ef8ac1116.PNG)
 
 ## Room Information
+![Room information](https://user-images.githubusercontent.com/53256465/157899527-8e54a257-0881-408f-9106-160719b144d4.PNG)
+
+## Payment and Checkout
