@@ -13,3 +13,4 @@
 ![Room information](https://user-images.githubusercontent.com/53256465/157899527-8e54a257-0881-408f-9106-160719b144d4.PNG)
 
 ## Payment and Checkout
+![Payment and checkout](https://user-images.githubusercontent.com/53256465/157899810-474eb1b7-13ef-4cd2-8db0-e8b1f4b4b9b9.PNG)
