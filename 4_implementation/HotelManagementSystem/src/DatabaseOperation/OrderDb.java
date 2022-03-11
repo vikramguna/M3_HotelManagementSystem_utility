@@ -7,10 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Faysal
- */
+
 
 
 /// ######                       DORKAR NAI EI DB ER , ETA PORE BAD DIYE DIBO

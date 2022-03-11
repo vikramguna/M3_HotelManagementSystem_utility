@@ -10,10 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Faysal Ahmed
- */
+
 public class DatabaseOperation {
 
     Connection conn = DataBaseConnection.connectTODB();

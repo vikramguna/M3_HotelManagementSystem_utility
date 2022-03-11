@@ -12,10 +12,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Faysal Ahmed
- */
+
 public class ItemDb {
     Connection conn = DataBaseConnection.connectTODB();
     PreparedStatement statement = null;

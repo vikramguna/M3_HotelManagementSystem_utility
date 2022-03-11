@@ -12,10 +12,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Faysal Ahmed
- */
+
 public class CustomerDb {
     Connection conn;
     PreparedStatement statement = null;

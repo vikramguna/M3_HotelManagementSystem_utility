@@ -144,7 +144,6 @@ public class BookingDb {
         }
 
     }
-
     public ResultSet getAllPaymentInfo(int bookingId)
     {
         try {

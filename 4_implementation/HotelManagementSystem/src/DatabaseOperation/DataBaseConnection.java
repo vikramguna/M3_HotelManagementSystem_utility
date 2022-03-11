@@ -7,10 +7,7 @@ import org.sqlite.*;
 
 
 
-/**
- *
- * @author Faysal Ahmed
- */
+
 
 
 public class DataBaseConnection {
