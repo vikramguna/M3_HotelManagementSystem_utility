@@ -13,10 +13,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author Faysal Ahmed
- */
+
 public class BookingTableModel extends AbstractTableModel {
 
     private String[] columnNames;
