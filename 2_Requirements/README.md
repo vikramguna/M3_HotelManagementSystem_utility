@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-A Hotel System Java is created using the Java programming language and it uses a SQLite database as its back-end to keep records available for future use. This is a straightforward yet comprehensive hotel management system. This system completes all of the tasks that a hotel software program must complete.
+A Hotel Management System Java is created using the Java programming language and it uses a SQLite database as its back-end to keep records available for future use. This is a straightforward yet comprehensive hotel management system. This system completes all of the tasks that a hotel software program must complete.
 
 # FEATURES
 
