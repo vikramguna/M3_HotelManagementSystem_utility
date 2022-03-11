@@ -20,5 +20,12 @@ A Hotel System Java is created using the Java programming language and it uses a
 
 ## HIGH LEVEL REQUIREMENTS:
 
+|Test Id  | Description |Exp I/P  |Exp O/P  |Act O/P  |Test Type  |
+|--|--|--|--|--|--|
+| HLR1 |Add a customer details |Name : vikram |vikram |vikram|Requirement based
+|HLR2|Contact no|8072334574 |8072334574|8072334574|Requirement based|
+| HLR3 |Guest |1|2|3|Requirement based
+| HLR4 |Room|single|Deluxe|Premium |Requirement based
+
 
 ## LOW LEVEL REQUIREMENTS:
