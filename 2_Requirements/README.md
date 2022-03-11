@@ -15,3 +15,10 @@ A Hotel System Java is created using the Java programming language and it uses a
 5.Other Items
 
 6.Check Out and Payments
+
+## DETAILED REQUIREMENTS:
+
+## HIGH LEVEL REQUIREMENTS:
+
+
+## LOW LEVEL REQUIREMENTS:
